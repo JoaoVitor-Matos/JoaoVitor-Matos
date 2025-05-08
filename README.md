@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo João Vitor Gramiscelli Rodrigues Ribeiro de Matos, tenho 21 anos e sou natural de Minas Gerais. Estou no último ano do curso de Sistemas de Informação na PUC Minas. Sou apaixonado por tecnologia, gosto de aprender novas ferramentas e criar soluções que gerem impacto. Tenho experiência com desenvolvimento web e mobile, tanto no frontend quanto no backend, e mantenho meus projetos no GitHub.
+Me chamo João Vitor Gramiscelli Rodrigues Ribeiro de Matos, tenho 21 anos e sou de Minas Gerais. Estou no último ano do curso de Sistemas de Informação na PUC Minas. Sou apaixonado por tecnologia, gosto de aprender novas ferramentas e criar soluções que gerem impacto. Tenho experiência com desenvolvimento web e mobile, tanto no frontend quanto no backend, e mantenho meus projetos no GitHub.
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-vitor-matos-27466625b/)
